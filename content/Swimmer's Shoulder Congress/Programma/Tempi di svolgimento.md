@@ -1,7 +1,7 @@
 ### Generale:
 L'evento potrebbe svolgersi secondo due modalità:
-- 8-13
-- 9-18 suddiviso in
+1. 8-13
+1. 9-18 suddiviso in
 	- 9-13
 	- 14-18
 
