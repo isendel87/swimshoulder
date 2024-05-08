@@ -1,0 +1,4 @@
+- Relazioni organizzate per macro argomenti (blocchi)
+- Singole relazioni di media durata: circa **30 minuti**
+- Domande fine relazione
+- Discussione per blocco

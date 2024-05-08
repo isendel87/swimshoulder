@@ -1,0 +1,3 @@
+- Workshop
+- Seminario
+- Corso istruzione

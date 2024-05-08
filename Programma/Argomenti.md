@@ -1,0 +1,11 @@
+- Infortuni spalla nel nuoto
+- Infortuni spalla pallanuoto
+- Infortuni spalla tuffi
+- Infortuni spalla nuoto artistico
+- Patologie da sovraccarico
+- Traumatologia
+- Gestione conservativa
+- Gestione chirurgica
+- Gestione post chirurgica
+- Gestione atletica e ricondizionamento
+- Esperienze con [[ospiti]]
