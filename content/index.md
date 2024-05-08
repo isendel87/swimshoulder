@@ -1,6 +1,8 @@
 ---
 title: Swimmer's Shoulder Congress
 ---
+Questa è la pagina di appunti per l'ideazione e l'organizzazione di questo congresso/workshop.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Da qui è possibile visitare:
+- [[Organizzazione Generale]]
+- 
